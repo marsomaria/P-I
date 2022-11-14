@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'fontello';
+  src: url('../font/fontello.eot?37997886');
+  src: url('../font/fontello.eot?37997886#iefix') format('embedded-opentype'),
+       url('../font/fontello.woff2?37997886') format('woff2'),
+       url('../font/fontello.woff?37997886') format('woff'),
+       url('../font/fontello.ttf?37997886') format('truetype'),
+       url('../font/fontello.svg?37997886#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'fontello';
+    src: url('../font/fontello.svg?37997886#fontello') format('svg');
+  }
+}
+*/
+ 
+ [class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: never;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+ 
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.icon-user:before { content: '\e800'; } /* '' */
+.icon-home:before { content: '\e801'; } /* '' */
+.icon-search:before { content: '\e802'; } /* '' */
+.icon-vcard:before { content: '\e803'; } /* '' */
+.icon-ok-circled:before { content: '\e804'; } /* '' */
+.icon-up-circled2:before { content: '\e805'; } /* '' */
+.icon-down-circled2:before { content: '\e806'; } /* '' */
+.icon-picture:before { content: '\e807'; } /* '' */
+.icon-picture-1:before { content: '\e808'; } /* '' */
+.icon-picture-2:before { content: '\e809'; } /* '' */
+.icon-phone:before { content: '\e80a'; } /* '' */
+.icon-login:before { content: '\e80b'; } /* '' */
+.icon-logout:before { content: '\e80c'; } /* '' */
+.icon-video:before { content: '\e80d'; } /* '' */
+.icon-plus-circled:before { content: '\e80e'; } /* '' */
+.icon-calendar:before { content: '\e80f'; } /* '' */
+.icon-calendar-1:before { content: '\e810'; } /* '' */
+.icon-cog-1:before { content: '\e811'; } /* '' */
+.icon-location:before { content: '\e812'; } /* '' */
+.icon-mail:before { content: '\e813'; } /* '' */
+.icon-user-pair:before { content: '\e814'; } /* '' */
+.icon-cancel-circled:before { content: '\e815'; } /* '' */
+.icon-emo-thumbsup:before { content: '\e816'; } /* '' */
+.icon-search-1:before { content: '\e817'; } /* '' */
+.icon-pen:before { content: '\e818'; } /* '' */
+.icon-key:before { content: '\e819'; } /* '' */
+.icon-color-adjust:before { content: '\f020'; } /* '' */
+.icon-location-1:before { content: '\f031'; } /* '' */
+.icon-info-circled:before { content: '\f085'; } /* '' */
+.icon-info-circled-alt:before { content: '\f086'; } /* '' */
+.icon-menu:before { content: '\f0c9'; } /* '' */
+.icon-money:before { content: '\f0d6'; } /* '' */
+.icon-angle-left:before { content: '\f104'; } /* '' */
+.icon-angle-right:before { content: '\f105'; } /* '' */
+.icon-angle-circled-left:before { content: '\f137'; } /* '' */
+.icon-angle-circled-right:before { content: '\f138'; } /* '' */
+.icon-user-plus:before { content: '\f234'; } /* '' */
+.icon-map-pin:before { content: '\f276'; } /* '' */
+.icon-question-circle-o:before { content: '\f29c'; } /* '' */
+.icon-address-card-o:before { content: '\f2bc'; } /* '' */
+.icon-user-circle-o:before { content: '\f2be'; } /* '' */

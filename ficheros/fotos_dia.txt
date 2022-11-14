@@ -1,0 +1,7 @@
+1;Trevor Something;Unas montañas cuya composición es espectacular
+2;Sancho Panza;Pues una fotografía submarina cuya composición es espectacular
+3;Ian Mcgregor;Un señor sentado en un tren de forma espectacular
+4;Photo Grapher;¿Una aurora boreal en esta época del año, en esta parte del país y localizada enteramente en tu cocina? Es algo que solo se ve una vez en la vida
+5;Hugh Mann;Realza el paisajismo gallego de la zona
+6;Jonnhy Silverhand;Una fotografía que refleja la intimidad de la naturaleza
+7;Alice Glass;Un contraste espectacular entre la fauna y la vida marítima

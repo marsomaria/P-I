@@ -1,0 +1,65 @@
+{
+    "Consejos":
+    [
+        {
+            "Categoría": "Material",
+            "Dificultad": "Fácil",
+            "Consejo": "Tener un trípode puede aportarte un montón de ventajas, tanto para las fotografías de interior como para las de exterior."
+        },
+        {
+            "Categoría": "Ajustes",
+            "Dificultad": "Media",
+            "Consejo": "Experimenta con los ajustes de la cámara, lee el manual de instrucciones para descifrar todos esos pequeños símbolos que tiene tu cámara."
+        },
+        {
+            "Categoría": "Ajustes",
+            "Dificultad": "Alta",
+            "Consejo": "La profundidad de campo se controla con los tres parámetros principales de una fotografía: diafragma, distancia al sujeto y distancia focal."
+        },
+        {
+            "Categoría": "Hábitos",
+            "Dificultad": "Muy alta",
+            "Consejo": "Llevar un estilo de vida saludable es vital para ser un buen fotógrafo."
+        },
+        {
+            "Categoría": "Hábitos",
+            "Dificultad": "Fácil",
+            "Consejo": "Si la cámara no capta ninguna imagen asegúrate de que no esté puesta la tapa del objetivo."
+        },
+        {
+            "Categoría": "Material",
+            "Dificultad": "Media",
+            "Consejo": "Disponer de una cámara de fotos es el primer paso para empezar a hacer fotos."
+        },
+        {
+            "Categoría": "Ajustes",
+            "Dificultad": "Fácil",
+            "Consejo": "El botón de encendido es útil si quieres empezar a hacer fotos."
+        },
+        {
+            "Categoría": "Hábitos",
+            "Dificultad": "Media",
+            "Consejo": "Comprueba tu entorno, no te conviene ser atropellado por hacer fotos."
+        },
+        {
+            "Categoría": "Hábitos",
+            "Dificultad": "Fácil",
+            "Consejo": "Una cámara limpia significa menos polvo en la lente."
+        },
+        {
+            "Categoría": "Material",
+            "Dificultad": "Fácil",
+            "Consejo": "Asegúrate de tener algo visible a lo que hacerle una foto."
+        },
+        {
+            "Categoría": "Hábito",
+            "Dificultad": "Medio",
+            "Consejo": "Recuerda preguntar antes de hacerle una foto a un desconocido."
+        },
+        {
+            "Categoría": "Hábito",
+            "Dificultad": "Difícil",
+            "Consejo": "Un buen fotógrafo nunca se olvida la cámara y las llaves en casa."
+        }
+    ]
+}
